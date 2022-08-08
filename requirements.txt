@@ -1,8 +1,9 @@
+setuptools-rust
+streamlit
+streamlit_tags
 plotly
 matplotlib
 plotly_express
-streamlit
-streamlit_tags
 scipy
 numpy
 pandas
@@ -14,5 +15,4 @@ inflect
 dateparser
 phik
 seaborn
-setuptools-rust
 gseapy
