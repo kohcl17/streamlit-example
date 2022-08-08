@@ -7,13 +7,11 @@ import base64
 import io
 from PIL import Image
 from io import BytesIO
-# import zipfile
 import inflect
 import dateparser
 from datetime import datetime
 import requests
 
-import gseapy as gp
 from scipy.spatial.distance import pdist, squareform
 from scipy.cluster.hierarchy import dendrogram, linkage
 from scipy import stats
