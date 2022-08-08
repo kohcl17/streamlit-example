@@ -14,4 +14,4 @@ inflect
 dateparser
 phik
 seaborn
-gseapy==0.10.4
+gseapy==0.10.8
